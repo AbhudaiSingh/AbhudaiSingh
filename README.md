@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Abhudai Singh</h1>
 
- - 🔭 **I’m currently learning:** <br> <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" /> 
+ - 🔭 **I’m currently learning:** <br> <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" /> <img src="https://www.notion.so/image/https%3A%2F%2Fgithub.com%2Ftandpfun%2Fskill-icons%2Fraw%2Fmain%2Ficons%2FCS.svg?id=a405c0ef-79aa-4a81-b906-f9cffc251a7f&table=block&spaceId=68a844ad-8314-44af-946e-29460686f459&userId=62feb36b-c5d3-432d-b6c6-5a72e6d3c6de&cache=v2" height="60" />
  <br><br>- 👯 **I’m looking to collaborate on:** <br>Hackathons...
  <br><br>- 🤝 **I’m looking for help with:** <br>Database management system(DBMS)...
  <br><br>- 💬 **Ask me about:** <br> <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="60" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60"/>
